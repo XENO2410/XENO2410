@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tarun
 - 👀 I’m interested in web development, motion graphics, video editing n stuffs.
-- 🌱 I’m currently learning motion graphics.
-- 💞️ I’m looking to collaborate on animation or any other stuffs of my interest.
-- 📫 How to reach me dm me, i will reply as soon as possible.
+- 🌱 I’m currently learning motion graphics & Web Developement.
+- 💞️ I’m looking to collaborate on Web Designs & graphic designing or any other stuffs of my interest.
+- 📫 How to reach me? dm me, i will reply as soon as possible.
 
 <!---
 XENO2410/XENO2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
