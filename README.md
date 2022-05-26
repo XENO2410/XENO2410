@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun
-- 👀 I’m interested in web development, motion graphics, video editing n stuffs.
-- 🌱 I’m currently learning motion graphics & Web Developement.
+- 👀 I’m interested in web development, motion graphics, video editing n stuff.
+- 🌱 I’m currently learning motion graphics & Web Development.
 - 💞️ I’m looking to collaborate on Web Designs & graphic designing or any other stuffs of my interest.
 - 📫 How to reach me? dm me, i will reply as soon as possible.
 
