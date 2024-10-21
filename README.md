@@ -20,13 +20,24 @@
     </p>
 </a>
 
-<!-- GitHub Stats -->
-<a align="center" href="https://huehue26.github.io">
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=huehue26&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huehue26&layout=compact&theme=tokyonight" alt="languages" height="165">
-    </p>
-</a>
+<!-- GitHub Stats, Most Used Languages, and Streak Stats -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+    <!-- GitHub Stats -->
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=huehue26&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+    </div>
+
+    <!-- Most Used Languages -->
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huehue26&layout=compact&theme=tokyonight" alt="Languages" width="400"/>
+    </div>
+
+    <!-- GitHub Streak Stats -->
+    <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=huehue26&theme=tokyonight" alt="Streak Stats" width="400"/>
+    </div>
+</div>
 
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
@@ -128,10 +139,7 @@
     </a> 
 </p>
 
-<!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeno2410&" alt="xeno2410" /></p>
-
-<!-- Party Parrots -->
+<!-- Party Parrots Section -->
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
