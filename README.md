@@ -9,19 +9,20 @@
 </p>
 
 <!-- GitHub Profile Trophy -->
-<p align="left"> 
+ <!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=xeno2410&theme=onedark" alt="xeno2410" />
   </a> 
-</p>
+</p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Connect with Me Section -->
-<h3 align="left" style="color: #ffffff;">Connect with me:</h3>
+<!-- <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/tarun kumar sharma" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun kumar sharma" height="30" width="40" />
   </a>
-</p>
+</p> -->
 
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
