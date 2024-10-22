@@ -14,7 +14,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=xeno2410&theme=onedark" alt="xeno2410" />
   </a> 
 </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=15&column=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Connect with Me Section -->
 <!-- <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
@@ -117,7 +117,7 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeno2410&show_icons=true&locale=en&layout=compact&theme=dracula" alt="xeno2410" size="200px" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeno2410&show_icons=true&locale=en&layout=donut-vertical&theme=dracula" alt="xeno2410" size="200px" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeno2410&theme=dracula" alt="xeno2410" /></p>
 
