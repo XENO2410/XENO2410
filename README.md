@@ -123,6 +123,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeno2410&theme=dracula&size_weight=0.5&count_weight=0.5" alt="xeno2410" /></p>
 
 <!-- Parrot GIFs -->
+</br>
+</br>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
