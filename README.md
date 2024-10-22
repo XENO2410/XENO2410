@@ -1,3 +1,4 @@
+
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Tarun Kumar Sharma</h1>
@@ -117,7 +118,7 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeno2410&show_icons=true&locale=en&layout=donut&theme=dracula&size_weight=0.4&count_weight=0.4&langs_count=4" alt="xeno2410" size="200px" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeno2410&show_icons=true&locale=en&layout=donut&theme=dracula&size_weight=0.5&count_weight=0.5&langs_count=4" alt="xeno2410" size="200px" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeno2410&theme=dracula&size_weight=0.5&count_weight=0.5" alt="xeno2410" /></p>
 
