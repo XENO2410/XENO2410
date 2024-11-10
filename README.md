@@ -15,7 +15,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=xeno2410&theme=onedark" alt="xeno2410" />
   </a> 
 </p> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=15&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Connect with Me Section -->
 <!-- <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
