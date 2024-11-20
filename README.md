@@ -118,8 +118,15 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeno2410&show_icons=true&locale=en&layout=compact&theme=dracula&langs-count=8" alt="xeno2410" size="250px" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeno2410&show_icons=true&locale=en&layout=compact&theme=dracula&langs-count=8" alt="xeno2410" size="250px" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeno2410&theme=dracula&size_weight=0.5&count_weight=0.5" alt="xeno2410" /></p>
+-->
+ <p align="center">
+<a href="https://github.com/xeno2410">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xeno2410&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Xeno2410&theme=dracula)](https://git.io/streak-stats)
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeno2410&theme=dracula&size_weight=0.5&count_weight=0.5" alt="xeno2410" /></p> -->
 
