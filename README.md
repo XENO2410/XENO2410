@@ -1,10 +1,8 @@
 <!-- Master Head Section -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<p align="center"> 
-# Hi 👋, I'm Tarun Kumar Sharma
-### Passionate MERN Stack Developer and AI/ML Enthusiast from India
-</p>
+<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Tarun Kumar Sharma</h1>
+<h3 align="center" style="color: #ffffff;">Passionate MERN Stack developer and AI/ML enthusiast from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xeno2410&label=Profile%20views&color=0e75b6&style=flat" alt="xeno2410" /> 
