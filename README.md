@@ -27,9 +27,7 @@
 
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
-<p align="left"> 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,react,nextjs,angular,vite,mysql,mongodb,c,cpp,python,vercel,firebase,supabase,docker,postman,flask,numpy,pandas,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=8)](https://skillicons.dev)
-</p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,react,nextjs,angular,vite,mysql,mongodb,c,cpp,python,vercel,firebase,supabase,docker,postman,flask,numpy,pandas,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=8" />
 
 <!-- GitHub Stats Section -->
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeno2410&show_icons=true&locale=en&layout=compact&theme=dracula&langs-count=8" alt="xeno2410" size="250px" /></p>
