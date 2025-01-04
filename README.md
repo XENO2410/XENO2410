@@ -14,7 +14,7 @@
 
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,react,nextjs,angular,vite,mysql,mongodb,c,cpp,python,vercel,firebase,supabase,docker,postman,flask,numpy,pandas,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,react,nextjs,angular,vite,mysql,mongodb,c,cpp,python,vercel,firebase,supabase,docker,postman,flask,numpy,pandas,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=15" />
 
 <!-- GitHub Stats Section -->
  <p align="">
