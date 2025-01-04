@@ -13,7 +13,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=30&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Languages and Tools Section -->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,js,html,react,nextjs,tailwind,nodejs,angular,vite,vue,npm,mysql,sqlite,mongodb,c,cpp,python,pycharm,vercel,firebase,supabase,docker,postman,flask,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=14" />
   </a>
