@@ -15,7 +15,7 @@
 ## Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,CSS,react,nextjs,tailwind,nodejs,angular,vite,vue,mysql,sqlite,mongodb,c,cpp,python,pycharm,vercel,firebase,supabase,docker,postman,flask,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,nodejs,angular,vite,vue,mysql,sqlite,mongodb,c,cpp,python,pycharm,vercel,firebase,supabase,docker,postman,flask,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=14" />
   </a>
 </p>
 
