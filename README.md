@@ -10,29 +10,13 @@
 </p>
 
 <!-- GitHub Profile Trophy -->
- <!-- <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xeno2410&theme=onedark" alt="xeno2410" />
-  </a> 
-</p> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=XENO2410&theme=dracula&margin-w=30&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Connect with Me Section -->
-<!-- <h3 align="left" style="color: #ffffff;">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tarun kumar sharma" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun kumar sharma" height="30" width="40" />
-  </a>
-</p> -->
 
 <!-- Languages and Tools Section -->
 <h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,react,nextjs,angular,vite,mysql,mongodb,c,cpp,python,vercel,firebase,supabase,docker,postman,flask,numpy,pandas,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,react,nextjs,angular,vite,mysql,mongodb,c,cpp,python,vercel,firebase,supabase,docker,postman,flask,numpy,pandas,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=12" />
 
 <!-- GitHub Stats Section -->
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeno2410&show_icons=true&locale=en&layout=compact&theme=dracula&langs-count=8" alt="xeno2410" size="250px" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeno2410&theme=dracula&size_weight=0.5&count_weight=0.5" alt="xeno2410" /></p>
--->
  <p align="">
 <a href="https://github.com/xeno2410">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xeno2410&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -40,8 +24,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xeno2410&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Xeno2410&theme=dracula)](https://git.io/streak-stats)
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeno2410&theme=dracula&size_weight=0.5&count_weight=0.5" alt="xeno2410" /></p> -->
 
 <!-- Parrot GIFs -->
 </br>
