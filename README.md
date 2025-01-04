@@ -15,7 +15,7 @@
 <!-- Languages and Tools Section -->
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,react,nextjs,angular,vite,mysql,mongodb,c,cpp,python,vercel,firebase,supabase,docker,postman,flask,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,react,nextjs,tailwind,nodejs,angular,vite,vue,npm,mysql,sqlite,mongodb,c,cpp,python,pycharm,vercel,firebase,supabase,docker,postman,flask,pytorch,tensorflow,opencv,sklearn&theme=dark&perline=14" />
   </a>
 </p>
 
